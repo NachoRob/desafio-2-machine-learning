@@ -96,5 +96,4 @@ conda activate <nombre_del_entorno>
 ## 📄 Licencia
 
 Uso académico y educativo.
-"""
 

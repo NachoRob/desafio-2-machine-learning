@@ -1,6 +1,4 @@
-# Update README.md to mention environment.yml and create a macOS .gitignore
-
-readme_content = """# 🧠 Segmentación de Clientes — Clustering
+# 🧠 Segmentación de Clientes — Clustering
 
 **Autor:** Ignacio Robles  
 **Institución:** Desafío Latam  
